@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.exe.config
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.exe
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.pdb
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.exe
+C:\Users\luisc\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.pdb
